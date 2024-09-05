@@ -1,0 +1,26 @@
+---
+- Studetdetails:
+  - name: anil
+    phno: 90909090
+    adress: 
+      doorNo: 01
+      streeno: 2
+      pincode: 5000072
+
+  - name: sunil
+    phno: 8989898989
+    adress: 
+        doorNo: 02
+        streeno: 3
+        pincode: 5000072
+
+  - name: venil
+    phno: 8989898989
+    adress: 
+     doorNo: 03
+     streeno: 02
+     pincode: 5000072
+
+
+
+
