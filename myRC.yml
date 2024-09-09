@@ -11,10 +11,12 @@ spec:
     metadata:
        labels:
           app: myjavaapp
-        
+          
     spec:
       containers:
       - name: myjavacontainer
-        image: maha4iac/myonlinebooking:1
+        image: maha4iac/myonlinebooking:2
         ports:
         - containerPort: 8080
+          
+   
